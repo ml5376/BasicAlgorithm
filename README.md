@@ -1,2 +1,2 @@
 # BasicAlgorithm
-Hackerank algorithm practices 
+ contains 6 Hackerank algorithm practices solutions
